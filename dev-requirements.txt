@@ -1,0 +1,4 @@
+nose
+PyQt5
+PyQt5-sip
+sip
